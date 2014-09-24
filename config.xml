@@ -48,6 +48,7 @@
 	<gap:plugin name="org.apache.cordova.vibration" />
 	
 	<gap:plugin name="com.unarin.cordova.beacon" version="3.0.0" />
+	<gap:plugin name="com.ququplay.websocket.websocket" version="0.1.0" />
 	
 	
 	<gap:config-file platform="ios" parent="UIViewControllerBasedStatusBarAppearance">
