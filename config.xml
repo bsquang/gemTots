@@ -17,12 +17,12 @@
         bsq
     </author>
 	
-	<preference name="phonegap-version" value="3.5.0" />
+	<preference name="phonegap-version" value="3.7.0" />
 	<!--<preference name="orientation" value="p" />-->
 	<preference name="fullscreen" value="true" />  
 	<preference name="stay-in-webview" value="true" />
 	<preference name="target-device" value="universal" />
-	<preference name="deployment-target" value="7.0" />
+	<preference name="deployment-target" value="8.0" />
 	
 	<gap:platform name="ios" />
 	<gap:platform name="android" />
@@ -47,7 +47,7 @@
 	<gap:plugin name="org.apache.cordova.splashscreen" />
 	<gap:plugin name="org.apache.cordova.vibration" />
 	
-	<gap:plugin name="com.unarin.cordova.beacon" version="3.0.0" />
+	<gap:plugin name="com.unarin.cordova.beacon" />
 	<gap:plugin name="com.ququplay.websocket.websocket" version="0.1.0" />
 	
 	
