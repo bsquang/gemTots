@@ -22,7 +22,7 @@
 	<preference name="fullscreen" value="true" />  
 	<preference name="stay-in-webview" value="true" />
 	<preference name="target-device" value="universal" />
-	<preference name="deployment-target" value="8.0" />
+	<preference name="deployment-target" value="7.0" />
 	
 	<gap:platform name="ios" />
 	<gap:platform name="android" />
